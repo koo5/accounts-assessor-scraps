@@ -1,4 +1,4 @@
-# Lodgeit General Ledger Viewer (quasar_project)
+# Lodgeit General Ledger Viewer (quasar_project) - experiment
 
 Lodgeit General Ledger Viewer
 
